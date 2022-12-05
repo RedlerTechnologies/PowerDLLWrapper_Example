@@ -1,4 +1,8 @@
 # PowerDLLWrapper_Example
+## Prerequisites
+1. Download and install Kvaser driver - https://www.kvaser.com/download/
+2. Download and install Canalyst-II driver - https://www.zhcxgd.com/en/nd.jsp?id=6
+
 ## To use this example using Visual Studio 2022 - 
 1. Open Visual Studio 2022
 2. Click "Clone a repository"
@@ -14,3 +18,4 @@ And the example is ready to go
    + "ControlCAN.dll" and "Kvaser.CanLib.dll" to your execution directory
    + A new directory and call it "lib"
    + The file "PowerRiderDLL.dll" to the lib directory you just created
+   + Install the nuget package System.IO.Ports - https://www.nuget.org/packages/System.IO.Ports/
