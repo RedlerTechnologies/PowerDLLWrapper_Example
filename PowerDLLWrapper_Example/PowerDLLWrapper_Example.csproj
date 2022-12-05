@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Platforms>AnyCPU;x86</Platforms>
+    <Platforms>x86</Platforms>
   </PropertyGroup>
 
   <ItemGroup>
@@ -14,7 +14,7 @@
 
   <ItemGroup>
     <Reference Include="PowerRiderDLLWrapper">
-      <HintPath>D:\Projects\PowerRider-C-\PowerRider UI\PowerRiderDLLWrapper\bin\x86\Release\PowerRiderDLLWrapper.dll</HintPath>
+      <HintPath>lib\PowerRiderDLLWrapper.dll</HintPath>
     </Reference>
   </ItemGroup>
 
