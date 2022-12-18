@@ -1,7 +1,8 @@
 # PowerDLLWrapper_Example
 ## Prerequisites
-1. Download and install Kvaser driver - https://www.kvaser.com/download/
-2. Download and install Canalyst-II driver - https://www.zhcxgd.com/en/nd.jsp?id=6
+1. Download and install .net runtime 4.7.2 (If not installed already) - https://go.microsoft.com/fwlink/?LinkId=863262
+2. Download and install Kvaser driver - https://www.kvaser.com/download/
+3. Download and install Canalyst-II driver - https://www.zhcxgd.com/en/nd.jsp?id=6
 
 ## To use this example using Visual Studio 2022 - 
 1. Open Visual Studio 2022
